@@ -1,5 +1,5 @@
  AI Resume Screening and Candidate Ranking System  
-Made with ❤️ using Python & Streamlit ✨  
+Made with using Python & Streamlit ✨  
 
 📄 AI Resume Screening and Candidate Ranking System
 
