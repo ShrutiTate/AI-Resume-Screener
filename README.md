@@ -56,8 +56,6 @@ streamlit run app.py
 
 🌍 Deployment on Streamlit Cloud
 Push the repository to GitHub:
-
-
 git add .
 git commit -m "Initial commit"
 git push origin main
@@ -67,11 +65,11 @@ Click "New App", select your GitHub repository, and deploy!
 🤝 Contribution Guidelines
 We welcome contributions from the community! Follow these steps to contribute:
 
-Fork the repository.
-Create a new branch:git checkout -b feature-name
-Make your changes and commit:git commit -m "Added a new feature"
-Push the changes:git push origin feature-name
-Open a Pull Request (PR) and describe your changes.
+1.Fork the repository.
+2.Create a new branch:git checkout -b feature-name
+3.Make your changes and commit:git commit -m "Added a new feature"
+4.Push the changes:git push origin feature-name
+5.Open a Pull Request (PR) and describe your changes.
 
 📜 License
 This project is licensed under the MIT License. Feel free to use and enhance it.
